@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2023-09-11T22:13:16+08:00
-draft: true
+draft: false
 cover: "/img/introduction/1.jpg"
 coverCaption: "Image by [dreamstime](https://thumbs.dreamstime.com/b/introduction-concept-word-cork-board-77226561.jpg)"
 ---
