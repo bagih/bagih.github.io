@@ -19,10 +19,9 @@ Pengalamatan yang digunakan pada jaringan adalah menggunakan 192.168.1.0/24 , di
 
 ## Memasukkan perangkat pada area workspace
 
-Pertama tama, silahkan masukkan device device yang akan kita gunakan pada simulasi. Buka pada tab browse end devices / browse all devices pada tab sebelah kiri, kemudian drag perangkat VPCS sebanyak 3 buah dan Ethernet Switch sebanyak 1 buah. seperti pada gambar (2) dibawah ini:
+Pertama tama, silahkan masukkan device device yang akan kita gunakan pada simulasi. Buka pada tab browse end devices / browse all devices pada tab sebelah kiri, kemudian drag perangkat VPCS sebanyak 3 buah dan Ethernet Switch sebanyak 1 buah. anda bisa mencari perangkat yang dibutuhkan pada tab sebelah kiri seperti pada gambar (2) dibawah ini:
 
 {{< figure src="/img/skdjdsdg/1.png" alt="Gambar 2. Tampilan area workspace" position="center" style="border-radius: 8px;" caption="Gambar 2. Tampilan area workspace" >}}
-Gambar 5. Hasil tampilan setelah diplay
 sesuaikan perangkat pada area workspace, agar terlihat rapi anda bisa mengaktifkan fungsi snap to grid dan show grid yang terdapat pada menu View -> Snap to grid dan View -> Show the grid yang terdapat pada bar pada kiri atas.
 
 Setelah dirasa rapi silahkan menambahkan kabel ke masing masing perangkat VPC ke switch dengan menggunakan menu Add a link pada bagian kiri, kemudian tambahkan kabel dengan mengklik pada bagian VPC kemudian pilih port yang tersedia kemudian klik lagi pada bagian switch dan pilih port yang tersedia, sesuaikan berurutan agar terlihat rapi. Jika sudah, maka akan terlihat seperti gambar (3) dibawah ini
