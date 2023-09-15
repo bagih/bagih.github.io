@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bagih</title>
+    
+    
+    
+    <link>https://bagih.github.io/posts/</link>
+    <description>Recent content in Posts on Bagih</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Sep 2023 22:13:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://bagih.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://bagih.github.io/posts/introduction/</link>
+      <pubDate>Mon, 11 Sep 2023 22:13:16 +0800</pubDate>
+      
+      <guid>https://bagih.github.io/posts/introduction/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://bagih.github.io/img/introduction/1.jpg&#34;/&gt;
+          
+        
+        
+        
+          perkenalkan nama saya bagi hartawan, biasa dipanggil bagih. saya membuat blog ini untuk sebagai media saya menyampaikan hal-hal yang sedang saya pelajari dan ingin saya share ke yang lain. konten konten pada blog ini rencananya akan saya isi dengan artikel artikel terkait tutorial tutorial mengenai jaringan, programming dan yang lain lain. semoga blog ini bisa menjadi media yang berguna untuk saya dan para pembaca sekalian. terimakasih
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
