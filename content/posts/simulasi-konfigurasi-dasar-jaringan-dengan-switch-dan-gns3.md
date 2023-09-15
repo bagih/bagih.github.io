@@ -2,6 +2,7 @@
 title: "Simulasi Konfigurasi Dasar Jaringan Dengan Switch Di Gns3"
 date: 2023-09-15T19:58:09+08:00
 draft: false
+tags: ['gns3', 'jaringan']
 cover: "/img/skdjdsdg/3.png"
 coverCaption: "dokumentasi pribadi"
 ---
