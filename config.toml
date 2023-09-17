@@ -17,11 +17,11 @@ paginate = 5
   showMenuItems = 2
 
   # Show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
-  # toc = true
+  toc = false
 
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
@@ -31,10 +31,10 @@ paginate = 5
   [languages.en]
     title = "Bagih"
     subtitle = "My personal web for sharing thought"
-    keywords = ""
+    keywords = "Bagih, Jaringan, Gns3, Simulasi, Android, Programming, Kotlin, Backend, Fullstack"
     copyright = ""
     menuMore = "Show more"
-    writtenBy = "Written by"
+    writtenBy = "Written by: "
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
@@ -57,7 +57,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/posts/introduction/"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
